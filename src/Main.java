@@ -3,13 +3,5 @@
 public class Main {
     public static void main(String[] args) {
 
-      hi n=new hi();
-    }
-}
-class hi
-{
-    hi()
-    {
-        System.out.println("Hi");
     }
 }
